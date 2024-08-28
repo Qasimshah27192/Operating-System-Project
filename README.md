@@ -1,1 +1,1 @@
-Created a Operating System Using Ubuntu in C++ language Using Doubly Linked list. 
+Created a OS kernal Simulation in C++ language Using Doubly Linked list. 
