@@ -37,3 +37,10 @@ Here's a summary and walkthrough of how this code works:
   1. The user creates processes by entering their attributes (Process ID, Arrival Time, Burst Time, Priority).
   2. The user dispatches processes to the Running queue or moves them to other states like Waiting or Suspend.
   3. The program displays the current status of processes and allows further manipulation like resuming suspended processes or performing scheduling algorithms like FCFS.
+
+**Author**
+This project was developed by:
+
+**Syed Qasim Ibrar Shah**
+
+Feel free to contribute or fork this project to improve its features!
